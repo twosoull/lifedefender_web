@@ -5,3 +5,7 @@ export interface Sleep {
   sleepDay: number;
   usuallySleep: number;
 }
+
+export interface UsualSleep {
+  usuallySleep: number;
+}
